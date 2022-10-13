@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
+	import TripList from '$lib/components/TripList.svelte';
 	import type { Nullable } from '$lib/models/CustomTypes';
 	import { Toast } from '$lib/models/Toast';
 	import {
@@ -144,7 +145,7 @@
 		</div>
 	</div>
 
-	<div class="card w-3/5 bg-base-100 shadow-xl float-right">
-		<h1 class="text-xl p-4">Your Trips</h1>
+	<div class="w-3/5 float-right">
+		<TripList />
 	</div>
 </div>
