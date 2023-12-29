@@ -1,8 +1,10 @@
 # TravNbrg (Trav-Nburg) is a travel website which helps you to book tickets, trips, hotel stays
 
-## Viewwing the website
+## Viewing the website
 
 * Visit [travnbrg.web.app](https://travnbrg.web.app)
+
+## View the [Abstract](https://github.com/devNamanGor/travnbrg/blob/master/ABSTRACT.md)
 
 ## Tech Stack Used
 
